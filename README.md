@@ -103,3 +103,14 @@ This project analyzes **NYC taxi trip records from 2012–2023** using **PySpark
 ---
 
 ## 📂 **Repository Structure**
+
+📂 NYC-Taxi-Trip-Insights
+├── 📂 data/ # Raw and processed data files
+├── 📂 notebooks/ # Google Colab notebooks
+├── 📂 models/ # Trained machine learning models
+├── 📂 visualizations/ # Graphs, plots, and charts
+├── README.md # Project summary and insights
+├── requirements.txt # Dependencies (PySpark, Pandas, MLlib, Sklearn)
+└── LICENSE # Open-source license
+
+
